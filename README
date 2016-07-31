@@ -1,0 +1,2 @@
+sudo docker build -t htwk-epetersen/firepad
+sudo docker run -p 80:80 --name firepad htwk-epetersen/firepad
